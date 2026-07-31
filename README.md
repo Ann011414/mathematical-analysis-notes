@@ -18,4 +18,4 @@
 - 若有推导错误，欢迎交流指正。
 
 ## GitHub Topics
-`mathematical-analysis` `undergraduate-math` `study-notes` `real-analysis` `math-exercises`
+`mathematical-analysis` `undergraduate-math` `study-notes` 
